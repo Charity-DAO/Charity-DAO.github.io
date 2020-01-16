@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: 🌱Charity DAO
 description: Coordinating problem solving in charitable giving
 logo: https://github.com/Charity-DAO/Charity-DAO.github.io/raw/master/cdao_logo.png
-show_downloads: "false"
+show_downloads: false
