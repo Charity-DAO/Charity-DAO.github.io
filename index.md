@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## About 🌱Charity DAO
 
-You can use the [editor on GitHub](https://github.com/Charity-DAO/Charity-DAO.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Charity DAO coordinates efforts and problem solving around crypto and blockchain applications for charitable giving.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some goals of Charity DAO:
 
-### Markdown
+- Organize campaigns around fundraising activities
+- Solve trust and scalabilty problems with charity using decentralized technologies
+- Build tools for easy creation of legitimate crowdfunding campaigns
+- Improve the user experience for non-crypto savvy users to engage in crypto charity
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pledge 🌱Charity DAO
 
-```markdown
-Syntax highlighted code block
+🌱Charity DAO is a [Moloch style](https://medium.com/odyssy/moloch-primer-for-humans-9e6a4f258f78) DAO.
 
-# Header 1
-## Header 2
-### Header 3
+- Minium pledge is 10 DAI
+- For pledging 1 share = 1 DAI
+- Proposals having a voting period of 3 days and a grace period of 2 days
 
-- Bulleted
-- List
+### To pledge:
 
-1. Numbered
-2. List
+1. Create a profile and tribute on DaoHaus: https://daohaus.club/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5
+2. Create a github issue using this template to introduce yourself: https://github.com/Charity-DAO/Charity-DAO.github.io/issues/1
+3. Join us on telegram: https://t.me/CharityDAO
+4. Once your membership has been approved by the DAO, you can manage your DAO shares in Pokemol: https://pokemol.com/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Charity-DAO/Charity-DAO.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
