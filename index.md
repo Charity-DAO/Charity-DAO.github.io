@@ -19,8 +19,8 @@ Some goals of Charity DAO:
 
 ### To pledge:
 
-1. Create a profile and tribute on DaoHaus: https://daohaus.club/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5
-2. Create a github issue using this template to introduce yourself: https://github.com/Charity-DAO/Charity-DAO.github.io/issues/1
-3. Join us on telegram: https://t.me/CharityDAO
-4. Once your membership has been approved by the DAO, you can manage your DAO shares in Pokemol: https://pokemol.com/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5
+1. Create a profile and tribute on DaoHaus: [https://daohaus.club/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5](https://daohaus.club/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5)
+2. Create a github issue using this template to introduce yourself: [https://github.com/Charity-DAO/Charity-DAO.github.io/issues/1](https://github.com/Charity-DAO/Charity-DAO.github.io/issues/1)
+3. Join us on telegram: [https://t.me/CharityDAO](https://t.me/CharityDAO)
+4. Once your membership has been approved by the DAO, you can manage your DAO shares in Pokemol: [https://pokemol.com/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5](https://pokemol.com/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5)
 
