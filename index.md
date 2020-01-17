@@ -24,3 +24,5 @@ Some goals of Charity DAO:
 3. Join us on telegram: [https://t.me/CharityDAO](https://t.me/CharityDAO)
 4. Once your membership has been approved by the DAO, you can manage your DAO shares in Pokemol: [https://pokemol.com/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5](https://pokemol.com/dao/0x014ded81ddb85f7d178a66bcdd6cd6ca89ba7cc5)
 
+## Active Fundraisers
+- [Orphans in Vietnam - Jan 2020](https://2key.me/DonateToOrphansInVietnam/TDUvW)
